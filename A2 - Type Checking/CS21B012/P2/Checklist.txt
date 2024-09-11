@@ -1,0 +1,28 @@
+Checklist for Assignment P2
+
+1) Have you tarred + gzipped the file as XXXXXXXX.P2.tar.gz (your 8-digit roll number) or zipped it to XXXXXXXX.tgz?
+Yes
+
+2) Does your tar.gz file expand (by using the command tar xvzf) to the base directory named XXXXXXXX (your 8-digit roll number), with sub directory named P2 within it, and which in turns contains all your files?
+Yes
+
+3) Have you removed the *.class files and *.jar files from your tar ball?
+Yes
+
+4) Does the above created P2 contains P2.java, that can be compiled using javac P2.java ?
+Yes
+
+5) Does your generated P2 take input from Standard Input (for usage of redirection) ?
+Yes
+
+6) Does your generated P2 write output to Standard Output (for usage of redirection) ?
+Yes
+
+7) Have you removed all the debugging messages that your program may output?
+Yes
+
+8) Is (some part of) the assignment plagiarized? 
+No
+
+9) Any comments about your evaluation strategy :
+No
